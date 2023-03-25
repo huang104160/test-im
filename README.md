@@ -14,13 +14,13 @@
 - 当然你也可以自己注册玩
 
 ## 演示图片
-![image-20230325190126211](assets\image-20230325190126211.png)
-![image-20230325180448026](assets\image-20230325180448026.png)
-![image-20230325190219108](assets\image-20230325190235405.png)
-![image-20230325180834076](assets\image-20230325180834076.png)
-![image-20230325190602161](assets\image-20230325190602161.png)
+![image-20230325190126211](https://github.com/huang104160/test-im/blob/main/assets/image-20230325190126211.png)
+![image-20230325180448026](https://github.com/huang104160/test-im/blob/main/assets/image-20230325180448026.png)
+![image-20230325190219108](https://github.com/huang104160/test-im/blob/main/assets/image-20230325190235405.png)
+![image-20230325180834076](https://github.com/huang104160/test-im/blob/main/assets/image-20230325180834076.png)
+![image-20230325190602161](https://github.com/huang104160/test-im/blob/main/assets/image-20230325190602161.png)
 ## 注意！
 视频通话仅能在局域网内使用，而且必须绕开https限制，具体可百度或谷歌
 
 
-![image-20230325180807770](assets\image-20230325180807770.png)
+![image-20230325180807770](https://github.com/huang104160/test-im/blob/main/assets/image-20230325180807770.png)
